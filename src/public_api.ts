@@ -1,1 +1,1 @@
-export * from './lib/time-constants'
+export * from './lib/time-constants';
