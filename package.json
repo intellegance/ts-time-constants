@@ -1,7 +1,8 @@
 {
   "name": "@intellegance/time",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist",
   "repository": "https://github.com/intellegance/ts-time-constants",
   "author": "Aaron Adrian <aaroncadrian@gmail.com>",
   "license": "MIT",
