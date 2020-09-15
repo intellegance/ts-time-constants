@@ -1,0 +1,19 @@
+{
+  "name": "@intellegance/time",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist",
+  "repository": "https://github.com/intellegance/ts-time-constants",
+  "author": "Aaron Adrian <aaroncadrian@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1",
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
